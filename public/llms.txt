@@ -1,0 +1,15 @@
+# Wickra Darwin
+
+> Evolutionary strategy search at millions of backtests per second — mutate and cross JSON strategy specs to brute-force alpha across the 514-indicator space, byte-identical across ten languages for a given seed. A population of StrategySpec genomes is evolved with genetic operators (mutation + crossover) and each candidate is scored by the O(1)-per-tick wickra-backtest engine.
+
+Wickra Darwin evolves the same StrategySpec that wickra-backtest runs — mutation and crossover over that JSON genome, scored by the O(1)-per-tick engine, so the search evaluates candidates orders of magnitude faster than pandas-based tooling. The core is reachable from Rust, Python, Node.js, WASM and — over a C ABI — C, C++, C#, Go, Java and R, plus a reference CLI. A fixed portable PRNG makes every run reproducible. Released under the MIT OR Apache-2.0 license.
+
+## Source and packages
+- [GitHub](https://github.com/wickra-lib/wickra-darwin): Source, issues, and releases.
+- [crates.io](https://crates.io/crates/wickra-darwin): Rust crate.
+- [PyPI](https://pypi.org/project/wickra-darwin/): Python package.
+- [npm](https://www.npmjs.com/package/wickra-darwin): Node package.
+
+## Ecosystem
+- [Wickra](https://wickra.org): The core streaming-indicator library the ecosystem is built on.
+- [Docs](https://docs.wickra.org): Documentation for the Wickra core.
