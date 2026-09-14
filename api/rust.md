@@ -26,4 +26,4 @@ for ranked in &report.best {
 
 - [crates.io/crates/wickra-darwin](https://crates.io/crates/wickra-darwin) - [docs.rs](https://docs.rs/wickra-darwin)
 - [Source & examples](https://github.com/wickra-lib/wickra-darwin/tree/main/examples/rust)
-- [EvolveSpec & search space](https://github.com/wickra-lib/wickra-darwin/blob/main/docs/SPEC.md)
+- [EvolveSpec & search space](https://github.com/wickra-lib/wickra-darwin/blob/main/docs/ARCHITECTURE.md)

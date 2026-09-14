@@ -16,7 +16,7 @@ hero:
       link: https://github.com/wickra-lib/wickra-darwin
     - theme: alt
       text: EvolveSpec & search space
-      link: https://github.com/wickra-lib/wickra-darwin/blob/main/docs/SPEC.md
+      link: https://github.com/wickra-lib/wickra-darwin/blob/main/docs/ARCHITECTURE.md
     - theme: alt
       text: API
       link: /api/rust
