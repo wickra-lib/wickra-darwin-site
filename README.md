@@ -2,10 +2,10 @@
   <a href="https://darwin.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.webp?v=514-7" alt="Wickra Darwin — evolutionary strategy search at millions of backtests per second, mutating and crossing JSON specs across the 514-indicator space" width="100%"></a>
 </p>
 
-[![Built on Wickra](https://img.shields.io/badge/built%20on-wickra-3b82f6)](https://github.com/wickra-lib/wickra)
+[![Built on Wickra](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-darwin-site/built-on.svg)](https://github.com/wickra-lib/wickra)
 [![Docs](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-darwin/docs.svg)](https://darwin.wickra.org)
 [![License: MIT OR Apache-2.0](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-darwin/license.svg)](https://github.com/wickra-lib/wickra-darwin#license)
-[![Built with VitePress](https://img.shields.io/badge/built%20with-VitePress-5c73e7?logo=vite&logoColor=white)](https://vitepress.dev)
+[![Built with VitePress](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-darwin-site/vitepress.svg)](https://vitepress.dev)
 
 ---
 
