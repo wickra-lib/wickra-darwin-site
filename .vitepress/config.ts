@@ -29,7 +29,7 @@ const structuredData = {
       operatingSystem: 'Windows, macOS, Linux, WebAssembly',
       programmingLanguage: ['Rust', 'Python', 'JavaScript', 'WebAssembly', 'C', 'C++', 'C#', 'Go', 'Java', 'R'],
       description:
-        'Evolutionary strategy search at millions of backtests per second — mutate and cross JSON strategy specs to brute-force alpha across the 514-indicator space, in ten languages. Built on the Wickra core.',
+        'Evolutionary strategy search at millions of backtests per second — mutate and cross JSON strategy specs to brute-force alpha across the 495-indicator space, in ten languages. Built on the Wickra core.',
       license: 'https://github.com/wickra-lib/wickra-darwin#license',
       publisher: { '@id': 'https://darwin.wickra.org/#organization' },
     },
@@ -39,7 +39,7 @@ const structuredData = {
 export default defineConfig({
   title: 'Wickra Darwin',
   description:
-    'Evolutionary strategy search at millions of backtests per second — mutate and cross JSON strategy specs to brute-force alpha across the 514-indicator space, in ten languages. Built on the Wickra core.',
+    'Evolutionary strategy search at millions of backtests per second — mutate and cross JSON strategy specs to brute-force alpha across the 495-indicator space, in ten languages. Built on the Wickra core.',
   lang: 'en-US',
   cleanUrls: true,
 

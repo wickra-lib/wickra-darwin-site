@@ -30,7 +30,7 @@ features:
     details: "Each candidate is scored by the O(1)-per-tick wickra-backtest engine, so the evolutionary loop sustains a very high backtests-per-second rate — orders of magnitude faster than pandas-based tooling."
   - icon: 📈
     title: The whole indicator space
-    details: "The search space ranges over the 514 indicators of the Wickra core and their parameter ranges, so evolution explores real strategies, not toy signals."
+    details: "The search space ranges over the 495 indicators the backtest registry resolves and their parameter ranges, so evolution explores real strategies, not toy signals."
   - icon: 🌐
     title: Ten languages, one search
     details: "The core is a JSON-over-C-ABI data API (Darwin::command_json) in Rust, Python, Node.js, WASM, C, C++, C#, Go, Java and R. A developer in any language runs the same evolution."
@@ -150,7 +150,7 @@ binding.
 
 Wickra Darwin is part of the [Wickra](https://wickra.org) ecosystem. Every
 candidate is scored by [`wickra-backtest`](https://github.com/wickra-lib/wickra-backtest)
-over the 514 indicators of [`wickra-core`](https://github.com/wickra-lib/wickra),
+over the 495 indicators its registry resolves from [`wickra-core`](https://github.com/wickra-lib/wickra),
 so an evolved strategy sees exactly the same numbers a live chart would.
 
 > Wickra Darwin is a software library, not a trading system, and comes with no

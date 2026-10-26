@@ -15,8 +15,8 @@ given seed, returns a byte-for-byte identical report.
 - **Millions of backtests per second.** Each candidate is scored by the O(1)-per-tick
   engine, so the loop sustains a very high backtests-per-second rate — orders of
   magnitude faster than pandas-based tooling. "AlphaZero for trading strategies."
-- **The whole indicator space.** The search ranges over the 514 indicators of the
-  Wickra core and their parameter ranges — real strategies, not toy signals.
+- **The whole indicator space.** The search ranges over the 495 indicators the
+  backtest registry resolves and their parameter ranges — real strategies, not toy signals.
 - **Seeded and reproducible.** A fixed portable PRNG drives mutation and crossover,
   so a given seed produces the byte-identical report on every platform, pinned by a
   golden corpus in CI.
