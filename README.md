@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://darwin.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.svg?v=514-8" alt="Wickra Darwin — evolutionary strategy search at millions of backtests per second, mutating and crossing JSON specs across the 495-indicator space" width="100%"></a>
+  <a href="https://darwin.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.svg?v=515-8" alt="Wickra Darwin — evolutionary strategy search at millions of backtests per second, mutating and crossing JSON specs across the 495-indicator space" width="100%"></a>
 </p>
 
 [![Built on Wickra](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-darwin-site/built-on.svg)](https://github.com/wickra-lib/wickra)
